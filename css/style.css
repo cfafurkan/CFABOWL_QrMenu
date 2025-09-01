@@ -3688,7 +3688,7 @@ iframe#youtubevideo {
 /* -----------------Menu List Section Start----------- */
 .bredcrumb_section.menu_list {
   position: relative;
-  background: linear-gradient(to left, rgb(0 0 0 / 32%), rgb(0 0 0 / 37%)), url(../images/menulist_banner.png);
+  background: linear-gradient(to left, rgb(0 0 0 / 32%), rgb(0 0 0 / 37%)), url(../images/menulist_banner.webp);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
